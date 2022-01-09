@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StuartE1990
+- 👋 Hi, I’m Stuart!
 - 👀 I’m interested in American Football, Gaming & Fitness
 - 🌱 I’m currently learning JS, HTML, Python, CSS!
 - 💞️ I’m looking to collaborate on nothing yet as still learning :)
